@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sentaicho/static/css/main.c4d90f4c.css",
-    "main.js": "/sentaicho/static/js/main.a841b0ac.js",
+    "main.js": "/sentaicho/static/js/main.d9775f9d.js",
     "index.html": "/sentaicho/index.html",
     "main.c4d90f4c.css.map": "/sentaicho/static/css/main.c4d90f4c.css.map",
-    "main.a841b0ac.js.map": "/sentaicho/static/js/main.a841b0ac.js.map"
+    "main.d9775f9d.js.map": "/sentaicho/static/js/main.d9775f9d.js.map"
   },
   "entrypoints": [
     "static/css/main.c4d90f4c.css",
-    "static/js/main.a841b0ac.js"
+    "static/js/main.d9775f9d.js"
   ]
 }
