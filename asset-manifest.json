@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/sentaicho/static/css/main.8a48a884.css",
-    "main.js": "/sentaicho/static/js/main.5ed32172.js",
+    "main.js": "/sentaicho/static/js/main.8c65a563.js",
     "index.html": "/sentaicho/index.html"
   },
   "entrypoints": [
     "static/css/main.8a48a884.css",
-    "static/js/main.5ed32172.js"
+    "static/js/main.8c65a563.js"
   ]
 }

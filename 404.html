@@ -1,1 +1,18 @@
-<!doctype html><html lang="ja"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"/><meta name="theme-color" content="#FF7B00"/><meta name="apple-mobile-web-app-capable" content="yes"/><meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-status-bar-style" content="default"/><link rel="icon" type="image/png" href="/sentaicho/favicon.png"/><title>選対スケジュール帳</title><script defer="defer" src="/sentaicho/static/js/main.7defe816.js"></script><link href="/sentaicho/static/css/main.916a171e.css" rel="stylesheet"></head><body><div id="root"></div></body></html>
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <title>選対スケジュール帳</title>
+  <script>
+    // GitHub Pages は /sentaicho/aichi などのURLを直接開くとこのページを返す。
+    // 元のパスを ?p= に入れてトップ（index.html）へ移し、index.html 側で元のパスに戻す。
+    (function () {
+      var base = '/sentaicho';
+      var l = window.location;
+      var path = l.pathname.indexOf(base) === 0 ? l.pathname.slice(base.length) : l.pathname;
+      l.replace(base + '/?p=' + encodeURIComponent(path + l.search) + l.hash);
+    })();
+  </script>
+</head>
+<body></body>
+</html>
